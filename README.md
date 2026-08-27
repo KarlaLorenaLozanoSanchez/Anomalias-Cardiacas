@@ -199,14 +199,9 @@ CALCULATE(
 
 ## Dashboard
 
-> _Agrega aquí 2-3 capturas de pantalla de tu dashboard de Power BI: la tasa global de anomalías, el scatter plot SpO₂ vs. FC, y la segmentación por deporte._
-
-```
-![Dashboard general](images/dashboard-general.png)
-![Scatter SpO2 vs FC](images/scatter-spo2-fc.png)
-```
-
----
+<img width="2075" height="1200" alt="Anomalias_Cardiacas_Todos_page-0001" src="https://github.com/user-attachments/assets/65698ee5-4ea5-47b6-a1b2-c53e3e4e923f" />
+<img width="2075" height="1200" alt="Anomalias_Cardiacas_page-0002" src="https://github.com/user-attachments/assets/52438051-83ca-4a07-9182-4ad23f69bd7f" />
+<img width="2075" height="1200" alt="Anomalias_Cardiacas_page-0001" src="https://github.com/user-attachments/assets/a08b1df2-575d-4661-be3f-c22ab42f13d5" />
 
 ## Alcance y Limitaciones
 
