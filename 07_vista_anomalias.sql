@@ -1,7 +1,3 @@
--- Vista central del proyecto: clasifica cada lectura biométrica según
--- reglas clínicas de negocio (hipoxia, anomalía severa, taquicardia basal)
--- Incluye reading_id único por fila, necesario para graficar cada lectura
--- individual en Power BI sin que se agregue/promedie por atleta.
 CREATE VIEW public.vista_monitoreo_anomalias AS
 SELECT
 	ROW_NUMBER() OVER () AS reading_id,
